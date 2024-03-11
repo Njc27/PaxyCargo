@@ -17,9 +17,9 @@ export default function Nav(){
         </a>
         <div class = "navbar-nav">
           <ul>
-          <li><a onClick={() =>{navigate('./track')}}>Track Your Order</a></li>
-          <li><a onClick={() =>{navigate('./services')}}>Our Services</a></li>
-          <li><a onClick={()=>{navigate('./contact')}}>Contact Us</a></li>
+          <li><a onClick={() =>{navigate('../track')}}>Track Your Order</a></li>
+          <li><a onClick={() =>{navigate('../services')}}>Our Services</a></li>
+          <li><a onClick={()=>{navigate('../contact')}}>Contact Us</a></li>
           {/* <li className='profile-icon'><a href = "#ContactUs"><CgProfile/></a></li> */}
           {/* <li><a href = "">Home</a></li> */}
           </ul>
