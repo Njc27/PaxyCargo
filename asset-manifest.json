@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PaxyCargo/static/css/main.c1d88c21.css",
-    "main.js": "/PaxyCargo/static/js/main.fd98df61.js",
+    "main.js": "/PaxyCargo/static/js/main.fb86a853.js",
     "static/js/787.a04d67d4.chunk.js": "/PaxyCargo/static/js/787.a04d67d4.chunk.js",
     "static/media/home_bg.jpg": "/PaxyCargo/static/media/home_bg.2a091b2f10ddbfcbd81c.jpg",
     "static/media/logistics.jpg": "/PaxyCargo/static/media/logistics.72513ca7f4150efedbe5.jpg",
@@ -15,11 +15,11 @@
     "static/media/clock.png": "/PaxyCargo/static/media/clock.f84a3c0e24799e7fc064.png",
     "index.html": "/PaxyCargo/index.html",
     "main.c1d88c21.css.map": "/PaxyCargo/static/css/main.c1d88c21.css.map",
-    "main.fd98df61.js.map": "/PaxyCargo/static/js/main.fd98df61.js.map",
+    "main.fb86a853.js.map": "/PaxyCargo/static/js/main.fb86a853.js.map",
     "787.a04d67d4.chunk.js.map": "/PaxyCargo/static/js/787.a04d67d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1d88c21.css",
-    "static/js/main.fd98df61.js"
+    "static/js/main.fb86a853.js"
   ]
 }
