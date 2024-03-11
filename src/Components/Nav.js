@@ -11,7 +11,7 @@ export default function Nav(){
         <div class = "navbar">
       <div class = "nav-container">
         {/* <a href = "index.html" class = "navbar-brand">Wander Stories</a> */}
-        <a className='logo' href = "./home">
+        <a className='logo' onClick={() =>{navigate('../home')}}>
         <h1>PAXY</h1>
         <h5>CARGO</h5>
         </a>
