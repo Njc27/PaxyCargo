@@ -12,7 +12,7 @@ import Contact from './Components/contact';
 function App() {
   return (
     <div className="App">
-       <Router>
+       <Router basename="/PaxyCargo">
         <Nav />
         {/* <Header/> */}
         <Routes>
