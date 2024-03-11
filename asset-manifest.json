@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PaxyCargo/static/css/main.c1d88c21.css",
+    "main.js": "/PaxyCargo/static/js/main.8f2961d0.js",
+    "static/js/787.a04d67d4.chunk.js": "/PaxyCargo/static/js/787.a04d67d4.chunk.js",
+    "static/media/home_bg.jpg": "/PaxyCargo/static/media/home_bg.2a091b2f10ddbfcbd81c.jpg",
+    "static/media/logistics.jpg": "/PaxyCargo/static/media/logistics.72513ca7f4150efedbe5.jpg",
+    "static/media/inTouch.jpg": "/PaxyCargo/static/media/inTouch.87a0528c64c69635a356.jpg",
+    "static/media/services.jpg": "/PaxyCargo/static/media/services.ddb65595edd25755804b.jpg",
+    "static/media/pin.gif": "/PaxyCargo/static/media/pin.5dd99a2d4c48838da201.gif",
+    "static/media/truck.gif": "/PaxyCargo/static/media/truck.f4e35a0844e3bba4f1bb.gif",
+    "static/media/ImexLogo.png": "/PaxyCargo/static/media/ImexLogo.beefcd19856a9c36638f.png",
+    "static/media/ratings.png": "/PaxyCargo/static/media/ratings.259b7808c3eb08634656.png",
+    "static/media/accept.png": "/PaxyCargo/static/media/accept.e7f61d7e4b9f6c357fae.png",
+    "static/media/clock.png": "/PaxyCargo/static/media/clock.f84a3c0e24799e7fc064.png",
+    "index.html": "/PaxyCargo/index.html",
+    "main.c1d88c21.css.map": "/PaxyCargo/static/css/main.c1d88c21.css.map",
+    "main.8f2961d0.js.map": "/PaxyCargo/static/js/main.8f2961d0.js.map",
+    "787.a04d67d4.chunk.js.map": "/PaxyCargo/static/js/787.a04d67d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d88c21.css",
+    "static/js/main.8f2961d0.js"
+  ]
+}
